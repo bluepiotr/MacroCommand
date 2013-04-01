@@ -5,6 +5,8 @@ public class Doors {
 		System.out.println("Doors Locked");
 	}
 	public void unlock() {
-			System.out.println("DoorsUnlocked");
+			System.out.println("DoorsUnlocked ");
 	}
+	
+	
 }
